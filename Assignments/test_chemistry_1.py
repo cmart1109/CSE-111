@@ -114,7 +114,7 @@ def test_make_periodic_table():
     i += 1
     check_element(periodic_table_list[i], ['Li', 'Lithium', 6.941])
     i += 1
-    check_element(periodic_table_lisAt[i], ['Lu', 'Lutetium', 174.9668])
+    check_element(periodic_table_list[i], ['Lu', 'Lutetium', 174.9668])
     i += 1
     check_element(periodic_table_list[i], ['Mg', 'Magnesium', 24.305])
     i += 1
