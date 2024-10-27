@@ -1,0 +1,42 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+
+        Youtube and Mp3 Downloader
+
+2. What real-world problem will your program address or help to solve?
+
+        My program will be a python program with a GUI that help the people to convert youtube videos from a URL to a mp4, and will have the function to convert mp4 files to mp3, and also store the date and time that i used it.
+
+3. What will you learn from developing this program?
+
+        I will apply all the content that we saw on this course, and learn how to apply new Python modules, such as pytube and moviepy,editor
+
+4. What Python modules will your program use?
+
+    (Some examples are: csv, datetime, functools, math, pytest, requests, pytube and moviepy.)
+
+5. List the names of functions you will need?
+
+    main()
+    get_url()
+    download_yt_video()
+    save_file()
+    convert_to_mp3()
+    get_and_print_time()
+    ask_user_function()
+
+6. List the names of the test functions you will write.
+
+    ask_user_function()
+    get_and_print_time()
+    get_url()
