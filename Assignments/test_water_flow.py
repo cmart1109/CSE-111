@@ -48,5 +48,4 @@ def test_pounds_per_square_inch():
     assert pounds_per_square_inch(131.29) == approx(19.042, abs=0.001)
 
 
-
 pytest.main(["-v", "--tb=line", "-rN", __file__])
